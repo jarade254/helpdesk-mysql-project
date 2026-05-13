@@ -1,0 +1,3 @@
+SHOW CREATE TABLE users;
+SHOW CREATE TABLE tickets;
+SHOW CREATE VIEW ticket_dashboard;
